@@ -26,7 +26,7 @@ The users should be able to:
 
 - Solution URL: [Shortly URL shortening API](https://aislandmin.github.io/Shortly-URL-shortening-API/)
 
-### Screenshot
+### Screenshots
 
 ![](./screenshots/screenshot1.png)
 
