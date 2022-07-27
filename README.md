@@ -22,19 +22,19 @@ The users should be able to:
 
 ## Overview
 
-### Links
+### Link
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Shortly URL shortening API](https://aislandmin.github.io/Shortly-URL-shortening-API/)
 
 ### Screenshot
 
 ![](./screenshots/screenshot1.png)
 
+![](./screenshots/screenshot4.png)
+
 ![](./screenshots/screenshot2.png)
 
 ![](./screenshots/screenshot3.png)
-
-![](./screenshots/screenshot4.png)
 
 ## My process
 
